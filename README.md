@@ -117,7 +117,7 @@ Consultez la vidéo pour plus de détails.
 
 https://www.youtube.com/watch?v=Xb5MUyxAxYg
 
-[![Tuto YTB](https://img.youtube.com/vi/Xb5MUyxAxYg/0.jpg)](https://www.youtube.com/watch?v=Xb5MUyxAxYg)
+[![Tuto YTB](https://img.youtube.com/vi/Flb3U_eNvj0/0.jpg)](https://www.youtube.com/watch?v=Flb3U_eNvj0)
 
 
 
