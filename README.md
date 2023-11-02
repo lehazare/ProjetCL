@@ -114,3 +114,6 @@ http://localhost:8080/pwned.php?cmd=ls
 ```
 
 Consultez la vidéo pour plus de détails.
+
+[![Tuto Ytb]()](https://www.youtube.com/watch?v=Flb3U_eNvj0&ab_channel=L%C3%A9oLazare)
+
