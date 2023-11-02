@@ -117,5 +117,3 @@ http://localhost:8080/pwned.php?cmd=ls
 
 Consultez la vidéo pour plus de détails.
 ```
-
-N'hésitez pas à personnaliser le document Markdown en fonction de vos besoins.
