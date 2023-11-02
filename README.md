@@ -15,10 +15,8 @@ git clone https://github.com/lehazare/ProjetCL.git
 Pour exécuter le conteneur WordPress, utilisez la commande suivante :
 
 ```bash
-docker-compose up --force-recreate
+docker-compose up
 ```
-
-> Note : Pour simplifier, vous pouvez utiliser `docker-compose up` sans l'option `--force-recreate`. L'option `--force-recreate` est ajoutée ici pour assurer que l'image du conteneur WordPress soit reconstruite si nécessaire.
 
 ## Installation du plugin MLA en version compromise (ex : 3.07) sur WordPress
 
