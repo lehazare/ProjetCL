@@ -2,6 +2,10 @@
 
 # Tuto CVE-2023-4634
 
+
+[![Tuto YTB](https://img.youtube.com/vi/Flb3U_eNvj0/0.jpg)](https://www.youtube.com/watch?v=Flb3U_eNvj0)
+
+
 ## Cloner le dépôt Git
 
 Pour commencer, clonez le dépôt Git à l'aide de la commande suivante :
@@ -118,8 +122,6 @@ Consultez la vidéo pour plus de détails.
 https://www.youtube.com/watch?v=Xb5MUyxAxYg
 
 [![Tuto YTB](https://img.youtube.com/vi/Flb3U_eNvj0/0.jpg)](https://www.youtube.com/watch?v=Flb3U_eNvj0)
-
-
 
 
 Special credits to https://github.com/Patrowl/CVE-2023-4634/
